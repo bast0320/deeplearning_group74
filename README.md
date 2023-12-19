@@ -10,7 +10,7 @@ test_xxx are test function which is not needed to run the actual code.
 
 We have also included submit bash scripts to be able to run the code on the HPC. If everything is kept as is the runtime is approx. 14 hours for 150 epochs. 
 
-
+You should run the "run_me.py" file.
 
 Group 74
 Project 10
